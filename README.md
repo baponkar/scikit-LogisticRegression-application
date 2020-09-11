@@ -60,11 +60,11 @@ A simple and detail applicational analysis of sci kit learn LogisticRegression m
               Sci-kit learning version-0.20.2
 
 References : 
--[x] A. C. Muller and S. Guido - Introduction to Machine Learning with Python - 2017
--[x] Hands on Machine Learning with Scikit Learn and Tensorflow
--[x] https://www.sololearn.com
--[x] https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
--[x] Trevor Hastie,Robert Tibshirani and Jerome FriedmanThe Elements of Statistical Learning Data Mining, Inference, and Prediction
+- [x] A. C. Muller and S. Guido - Introduction to Machine Learning with Python - 2017
+- [x] Hands on Machine Learning with Scikit Learn and Tensorflow
+- [x] https://www.sololearn.com
+- [x] https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+- [x] Trevor Hastie,Robert Tibshirani and Jerome FriedmanThe Elements of Statistical Learning Data Mining, Inference, and Prediction
 
 * Output Figure
 ![Output Figure](logestic_regression_figure.png)
