@@ -66,3 +66,6 @@ References :  [1] A. C. Muller and S. Guido - Introduction to Machine
               [2] Hands on Machine Learning with Scikit Learn and Tensorflow
               [3] https://www.sololearn.com
               [4] https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
+* Output Figure
+![Output Figure](logestic_regression_figure.png)
