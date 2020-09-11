@@ -59,7 +59,7 @@ A simple and detail applicational analysis of sci kit learn LogisticRegression m
               My python version is python-3.6.9 and
               Sci-kit learning version-0.20.2
 
-References : 
+* References : 
 - [x] A. C. Muller and S. Guido - Introduction to Machine Learning with Python - 2017
 - [x] Hands on Machine Learning with Scikit Learn and Tensorflow
 - [x] https://www.sololearn.com
@@ -67,4 +67,5 @@ References :
 - [x] Trevor Hastie,Robert Tibshirani and Jerome FriedmanThe Elements of Statistical Learning Data Mining, Inference, and Prediction
 
 * Output Figure
+
 ![Output Figure](logestic_regression_figure.png)
