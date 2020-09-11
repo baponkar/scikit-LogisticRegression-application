@@ -49,7 +49,6 @@ A simple and detail applicational analysis of sci kit learn LogisticRegression m
               [Survived,Pclass,Sex,Age,Siblings/Spouces,Parents/Children
               Fare] columns.Survived has two data 1[True] and 0[False].
               It has total 887 row and 7 columns features.
-
               In this program I am using logisticRegression model
               to train and predict the data.Logisticregression model
               doesnot return just a prediction ,but it returns a probability
@@ -57,15 +56,16 @@ A simple and detail applicational analysis of sci kit learn LogisticRegression m
               [penalty,dual,tol,C,fit_intercept,intercept_scalling,
               class_weight,random_state,solver,max_iter,multi_class,verbose,
               warm-start,n_jobs,l1_ratio].
-
               My python version is python-3.6.9 and
               Sci-kit learning version-0.20.2
 
-References :  [1] A. C. Muller and S. Guido - Introduction to Machine
-                  Learning with Python - 2017
-              [2] Hands on Machine Learning with Scikit Learn and Tensorflow
-              [3] https://www.sololearn.com
-              [4] https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+* References : 
+- [x] A. C. Muller and S. Guido - Introduction to Machine Learning with Python - 2017
+- [x] Hands on Machine Learning with Scikit Learn and Tensorflow
+- [x] https://www.sololearn.com
+- [x] https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+- [x] Trevor Hastie,Robert Tibshirani and Jerome FriedmanThe Elements of Statistical Learning Data Mining, Inference, and Prediction
 
 * Output Figure
-![Output Figure](logestic_regression_figure.png)
+
+![Output Figure](https://github.com/baponkar/scikit-LogisticRegression-application/blob/master/logestic_regression_figure.png)
