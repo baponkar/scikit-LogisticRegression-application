@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# scikit-LogisticRegression-application
+-----------
 
-You can use the [editor on GitHub](https://github.com/baponkar/scikit-LogisticRegression-application/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![python](https://img.shields.io/badge/python-3.6.9-blue)
+![sklearn](https://img.shields.io/badge/scikit--learn-0.20.2-red)
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- display the social media buttons in your README -->
 
-### Markdown
+[![alt text][1.1]][1]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<!-- links to social media icons -->
+<!-- no need to change these -->
 
-- Bulleted
-- List
+<!-- icons with padding -->
 
-1. Numbered
-2. List
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/kar_bapon
+
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+
+
+#### :octocat: Version : 1.0.0
+#### :octocat: License :  The GNU General Public License
+#### :octocat: Dependence : required additional packages is '[sklearn](https://scikit-learn.org/stable/)'.
+which can install by
 ```
+$ pip3 install sklearn
+```
+A simple and detail applicational analysis of sci kit learn LogisticRegression model .
+* Description : In this program uses 'titanic.csv'download link
+              (https://sololearn.com/uploads/files/titanic.csv)
+              as data source which has
+              [Survived,Pclass,Sex,Age,Siblings/Spouces,Parents/Children
+              Fare] columns.Survived has two data 1[True] and 0[False].
+              It has total 887 row and 7 columns features.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+              In this program I am using logisticRegression model
+              to train and predict the data.Logisticregression model
+              doesnot return just a prediction ,but it returns a probability
+              level from 0 to 1.It has following parameters
+              [penalty,dual,tol,C,fit_intercept,intercept_scalling,
+              class_weight,random_state,solver,max_iter,multi_class,verbose,
+              warm-start,n_jobs,l1_ratio].
 
-### Jekyll Themes
+              My python version is python-3.6.9 and
+              Sci-kit learning version-0.20.2
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baponkar/scikit-LogisticRegression-application/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+References :  [1] A. C. Muller and S. Guido - Introduction to Machine
+                  Learning with Python - 2017
+              [2] Hands on Machine Learning with Scikit Learn and Tensorflow
+              [3] https://www.sololearn.com
+              [4] https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
-### Support or Contact
+* Output Figure
+![Output Figure](logestic_regression_figure.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
