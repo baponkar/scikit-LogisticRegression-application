@@ -60,8 +60,8 @@ level from 0 to 1.It has following parameters
 * References :  
 - [x] A. C. Muller and S. Guido - Introduction to Machine Learning with Python - 2017
 - [x] Hands on Machine Learning with Scikit Learn and Tensorflow
-- [x] https://www.sololearn.com
-- [x] https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+- [x] ![https://www.sololearn.com](https://www.sololearn.com)
+- [x] ![https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
 * Output Figure
 
