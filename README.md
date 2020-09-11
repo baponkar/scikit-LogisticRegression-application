@@ -68,4 +68,4 @@ A simple and detail applicational analysis of sci kit learn LogisticRegression m
 
 * Output Figure
 
-![Output Figure](logestic_regression_figure.png)
+![Output Figure](https://github.com/baponkar/scikit-LogisticRegression-application/blob/master/logestic_regression_figure.png)
