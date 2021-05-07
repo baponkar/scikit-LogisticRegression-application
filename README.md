@@ -37,10 +37,11 @@
 
 #### :octocat: Version : 1.0.0
 #### :octocat: License :  The GNU General Public License
-#### :octocat: Dependence : required additional packages is '[sklearn](https://scikit-learn.org/stable/)'.
+#### :octocat: Dependence : required additional packages is '[sklearn](https://scikit-learn.org/stable/)',[pandas](https://pypi.org/project/pandas/).
 which can install by
 ```
-$ pip3 install sklearn
+# pip3 install sklearn
+# pip3 install pandas
 ```
 A simple and detail applicational analysis of sci kit learn LogisticRegression model .
 * Description : In this program uses 'titanic.csv'download link
